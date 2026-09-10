@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working to build automated system that help customer checkout faster ecommerce and is open to contribute in opensource project that include physical modelling and deep tech.
+I am working to build automated system that help customer checkout faster ecommerce and is contributing in opensource project that include physical modelling and deep tech.
 
 
 ## 🌐 Socials:
