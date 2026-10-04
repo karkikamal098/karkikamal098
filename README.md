@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working to build automated system that help customer checkout faster ecommerce and is contributing in opensource project that include physical modelling and deep tech.
+Working on things that will help me give identity and purpose of life.
 
 
 ## 🌐 Socials:
@@ -12,11 +12,6 @@ I am working to build automated system that help customer checkout faster ecomme
 ![](https://nirzak-streak-stats.vercel.app/?user=karkikamal098&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karkikamal098&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=karkikamal098&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=karkikamal098&limit=5&theme=dark&combine_all_yearly_contributions=true)
