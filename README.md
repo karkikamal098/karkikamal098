@@ -1,6 +1,5 @@
 # 💫 About Me:
-Working on things that will help me give identity and purpose of life.
-
+I am actively contributing and building things. Feel free to reach out to me if you have good problem where I can support.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamal-karki-16a926213) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamaljungkarki13579@gmail.com) 
